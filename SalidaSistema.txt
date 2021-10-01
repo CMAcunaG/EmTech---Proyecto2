@@ -1,0 +1,553 @@
+Dame el usuario : admin
+Usuario admin es valido
+Dame el password del usuario : admin
+
+
+Productos vendidos por importe de venta
+
+
+ 129,738.00 --> Procesador AMD Ryzen 5 2600, S-AM4, 3.40GHz, Six-Core, 16MB L3 Cache, con Disipador Wraith Stealth
+  59,913.00 --> Procesador Intel Core i7-9700K, S-1151, 3.60GHz, 8-Core, 12MB Smart Cache (9na. Generación Coffee Lake)
+  59,571.00 --> Tarjeta de Video ASUS NVIDIA GeForce GTX 1660 SUPER EVO OC, 6GB 192-bit GDDR6, PCI Express x16 3.0
+  46,299.00 --> Procesador AMD Ryzen 5 3600, S-AM4, 3.60GHz, 32MB L3 Cache, con Disipador Wraith Stealth
+  35,580.00 --> Procesador Intel Core i3-9100F, S-1151, 3.60GHz, Quad-Core, 6MB Cache (9na. Generación - Coffee Lake)
+  35,427.00 --> Procesador Intel Core i9-9900K, S-1151, 3.60GHz, 8-Core, 16MB Smart Cache (9na. Generación Coffee Lake)
+  32,022.00 --> Tarjeta Madre ASRock Micro ATX B450M Steel Legend, S-AM4, AMD B450, HDMI, 64GB DDR4 para AMD
+  29,988.00 --> Tarjeta Madre ASUS micro ATX TUF B450M-PLUS GAMING, S-AM4, AMD B450, HDMI, 64GB DDR4 para AMD
+  28,717.00 --> Procesador AMD Ryzen 3 3200G con Gráficos Radeon Vega 8, S-AM4, 3.60GHz, Quad-Core, 4MB L3, con Disipador Wraith Spire
+  23,031.00 --> SSD Kingston A2000 NVMe, 1TB, PCI Express 3.0, M2
+  22,197.00 --> Tarjeta de Video ASUS AMD Radeon RX 570, 4GB 256-bit GDDR5, PCI Express 3.0
+  21,596.00 --> Procesador Intel Core i5-9600K, S-1151, 3.70GHz, Six-Core, 9MB Smart Cache (9na. Generiación - Coffee Lake)
+  17,439.00 --> Tarjeta Madre Gigabyte XL-ATX TRX40 Designare, S-sTRX4, AMD TRX40, 256GB DDR4 para AMD
+  16,554.00 --> Tarjeta Madre MSI ATX B450 TOMAHAWK MAX, S-AM4, AMD B450, 64GB DDR4 para AMD
+  13,335.00 --> SSD Adata Ultimate SU800, 256GB, SATA III, 2.5'', 7mm
+  13,299.00 --> SSD XPG SX8200 Pro, 256GB, PCI Express, M.2
+  12,432.00 --> SSD Kingston A400, 120GB, SATA III, 2.5'', 7mm
+  11,318.00 --> SSD Western Digital WD Blue 3D NAND, 2TB, M.2
+  11,058.00 --> Tarjeta de Video Sapphire AMD Pulse Radeon RX 5500 XT Gaming, 8GB 128-bit GDDR6, PCI Express 4.0
+  10,995.00 --> Tarjeta de Video Gigabyte NVIDIA GeForce GT 1030, 2GB 64-bit GDDR5, PCI Express x16 3.0
+  10,318.00 --> Tarjeta de Video MSI AMD Mech Radeon RX 5500 XT MECH Gaming OC, 8GB 128-bit GDDR6, PCI Express 4.0
+   9,579.00 --> Tarjeta de Video Zotac NVIDIA GeForce GTX 1660 Ti, 6GB 192-bit GDDR6, PCI Express x16 3.0
+   9,417.00 --> Kit SSD Kingston KC600, 1TB, SATA III, 2.5, 7mm
+   8,538.00 --> Tarjeta Madre ASUS ATX PRIME Z390-A, S-1151, Intel Z390, HDMI, 64GB DDR4 para Intel 
+   8,478.00 --> Logitech Bocinas para Computadora con Subwoofer G560, Bluetooth, Inalámbrico, 2.1, 120W RMS, USB, negro
+   8,049.00 --> TCL Smart TV LED 55S425 54.6, 4K Ultra HD, Widescreen, Negro
+   7,197.00 --> SSD Kingston UV500, 480GB, SATA III, mSATA
+   6,038.00 --> Procesador AMD Ryzen 3 3300X S-AM4, 3.80GHz, Quad-Core, 16MB L2 Cache
+   4,318.00 --> Logitech Audífonos Gamer G635 7.1, Alámbrico, 1.5 Metros, 3.5mm, Negro/Azul
+   3,989.00 --> Tarjeta de Video Asus NVIDIA GeForce GTX 1050 Ti Phoenix, 4GB 128-bit GDDR5, PCI Express 3.0
+   3,429.00 --> Tarjeta de Video MSI NVIDIA GeForce GTX 1050 Ti OC, 4GB 128-bit GDDR5, PCI Express x16 3.0
+   3,229.00 --> TV Monitor LED 24TL520S-PU 24, HD, Widescreen, HDMI, Negro
+   2,949.00 --> SSD Crucial MX500, 1TB, SATA III, M.2
+   2,869.00 --> HyperX Audífonos Gamer Cloud Flight para PC/PS4/PS4 Pro, Inalámbrico, USB, 3.5mm, Negro
+   2,519.00 --> Kit Memoria RAM Corsair Dominator Platinum DDR4, 3200MHz, 16GB (2x 8GB), Non-ECC, CL16, XMP
+   1,089.00 --> Logitech Audífonos Gamer G332, Alámbrico, 2 Metros, 3.5mm, Negro/Rojo
+     889.00 --> MSI GeForce 210, 1GB GDDR3, DVI, VGA, HDCP, PCI Express 2.0
+     859.00 --> Cougar Audífonos Gamer Phontum Essential, Alámbrico, 1.9 Metros, 3.5mm, Negro.
+  -1,539.00 --> Tarjeta Madre Gigabyte micro ATX GA-H110M-DS2, S-1151, Intel H110, 32GB DDR4 para Intel
+  -2,869.00 --> Tarjeta Madre ASRock ATX H110 Pro BTC+, S-1151, Intel H110, 32GB DDR4, para Intel
+  -4,199.00 --> Tarjeta de Video Gigabyte AMD Radeon R7 370 OC, 2GB 256-bit GDDR5, PCI Express 3.0
+
+
+Ventas totales 715,655.00 
+
+
+
+
+Los productos que representan el 80-20 de las ventas es   572,524.00 
+
+
+   129,738.00 --> Procesador AMD Ryzen 5 2600, S-AM4, 3.40GHz, Six-Core, 16MB L3 Cache, con Disipador Wraith Stealth
+    59,913.00 --> Procesador Intel Core i7-9700K, S-1151, 3.60GHz, 8-Core, 12MB Smart Cache (9na. Generación Coffee Lake)
+    59,571.00 --> Tarjeta de Video ASUS NVIDIA GeForce GTX 1660 SUPER EVO OC, 6GB 192-bit GDDR6, PCI Express x16 3.0
+    46,299.00 --> Procesador AMD Ryzen 5 3600, S-AM4, 3.60GHz, 32MB L3 Cache, con Disipador Wraith Stealth
+    35,580.00 --> Procesador Intel Core i3-9100F, S-1151, 3.60GHz, Quad-Core, 6MB Cache (9na. Generación - Coffee Lake)
+    35,427.00 --> Procesador Intel Core i9-9900K, S-1151, 3.60GHz, 8-Core, 16MB Smart Cache (9na. Generación Coffee Lake)
+    32,022.00 --> Tarjeta Madre ASRock Micro ATX B450M Steel Legend, S-AM4, AMD B450, HDMI, 64GB DDR4 para AMD
+    29,988.00 --> Tarjeta Madre ASUS micro ATX TUF B450M-PLUS GAMING, S-AM4, AMD B450, HDMI, 64GB DDR4 para AMD
+    28,717.00 --> Procesador AMD Ryzen 3 3200G con Gráficos Radeon Vega 8, S-AM4, 3.60GHz, Quad-Core, 4MB L3, con Disipador Wraith Spire
+    23,031.00 --> SSD Kingston A2000 NVMe, 1TB, PCI Express 3.0, M2
+    22,197.00 --> Tarjeta de Video ASUS AMD Radeon RX 570, 4GB 256-bit GDDR5, PCI Express 3.0
+    21,596.00 --> Procesador Intel Core i5-9600K, S-1151, 3.70GHz, Six-Core, 9MB Smart Cache (9na. Generiación - Coffee Lake)
+    17,439.00 --> Tarjeta Madre Gigabyte XL-ATX TRX40 Designare, S-sTRX4, AMD TRX40, 256GB DDR4 para AMD
+    16,554.00 --> Tarjeta Madre MSI ATX B450 TOMAHAWK MAX, S-AM4, AMD B450, 64GB DDR4 para AMD
+    13,335.00 --> SSD Adata Ultimate SU800, 256GB, SATA III, 2.5'', 7mm
+    13,299.00 --> SSD XPG SX8200 Pro, 256GB, PCI Express, M.2
+
+
+productos vendidos agrupados por categoria 
+
+
+
+
+procesadores
+ -   6,038.00 -- Procesador AMD Ryzen 3 3300X S-AM4, 3.80GHz, Quad-Core, 16MB L2 Cache
+ -  21,596.00 -- Procesador Intel Core i5-9600K, S-1151, 3.70GHz, Six-Core, 9MB Smart Cache (9na. Generiación - Coffee Lake)
+ -  28,717.00 -- Procesador AMD Ryzen 3 3200G con Gráficos Radeon Vega 8, S-AM4, 3.60GHz, Quad-Core, 4MB L3, con Disipador Wraith Spire
+ -  35,427.00 -- Procesador Intel Core i9-9900K, S-1151, 3.60GHz, 8-Core, 16MB Smart Cache (9na. Generación Coffee Lake)
+ -  35,580.00 -- Procesador Intel Core i3-9100F, S-1151, 3.60GHz, Quad-Core, 6MB Cache (9na. Generación - Coffee Lake)
+ -  46,299.00 -- Procesador AMD Ryzen 5 3600, S-AM4, 3.60GHz, 32MB L3 Cache, con Disipador Wraith Stealth
+ -  59,913.00 -- Procesador Intel Core i7-9700K, S-1151, 3.60GHz, 8-Core, 12MB Smart Cache (9na. Generación Coffee Lake)
+ - 129,738.00 -- Procesador AMD Ryzen 5 2600, S-AM4, 3.40GHz, Six-Core, 16MB L3 Cache, con Disipador Wraith Stealth
+Las ventas procesadores  363,308.00      Representa el: 50.77%
+
+
+tarjetas de video
+ -     889.00 -- MSI GeForce 210, 1GB GDDR3, DVI, VGA, HDCP, PCI Express 2.0
+ -   3,429.00 -- Tarjeta de Video MSI NVIDIA GeForce GTX 1050 Ti OC, 4GB 128-bit GDDR5, PCI Express x16 3.0
+ -   3,989.00 -- Tarjeta de Video Asus NVIDIA GeForce GTX 1050 Ti Phoenix, 4GB 128-bit GDDR5, PCI Express 3.0
+ -   9,579.00 -- Tarjeta de Video Zotac NVIDIA GeForce GTX 1660 Ti, 6GB 192-bit GDDR6, PCI Express x16 3.0
+ -  10,318.00 -- Tarjeta de Video MSI AMD Mech Radeon RX 5500 XT MECH Gaming OC, 8GB 128-bit GDDR6, PCI Express 4.0
+ -  10,995.00 -- Tarjeta de Video Gigabyte NVIDIA GeForce GT 1030, 2GB 64-bit GDDR5, PCI Express x16 3.0
+ -  11,058.00 -- Tarjeta de Video Sapphire AMD Pulse Radeon RX 5500 XT Gaming, 8GB 128-bit GDDR6, PCI Express 4.0
+ -  22,197.00 -- Tarjeta de Video ASUS AMD Radeon RX 570, 4GB 256-bit GDDR5, PCI Express 3.0
+ -  59,571.00 -- Tarjeta de Video ASUS NVIDIA GeForce GTX 1660 SUPER EVO OC, 6GB 192-bit GDDR6, PCI Express x16 3.0
+Las ventas tarjetas de video  132,025.00     Representa el: 18.45%
+
+
+tarjetas madre
+ -   8,538.00 -- Tarjeta Madre ASUS ATX PRIME Z390-A, S-1151, Intel Z390, HDMI, 64GB DDR4 para Intel 
+ -  16,554.00 -- Tarjeta Madre MSI ATX B450 TOMAHAWK MAX, S-AM4, AMD B450, 64GB DDR4 para AMD
+ -  17,439.00 -- Tarjeta Madre Gigabyte XL-ATX TRX40 Designare, S-sTRX4, AMD TRX40, 256GB DDR4 para AMD
+ -  29,988.00 -- Tarjeta Madre ASUS micro ATX TUF B450M-PLUS GAMING, S-AM4, AMD B450, HDMI, 64GB DDR4 para AMD
+ -  32,022.00 -- Tarjeta Madre ASRock Micro ATX B450M Steel Legend, S-AM4, AMD B450, HDMI, 64GB DDR4 para AMD
+Las ventas tarjetas madre  104,541.00    Representa el: 14.61%
+
+
+discos duros
+ -   2,949.00 -- SSD Crucial MX500, 1TB, SATA III, M.2
+ -   7,197.00 -- SSD Kingston UV500, 480GB, SATA III, mSATA
+ -   9,417.00 -- Kit SSD Kingston KC600, 1TB, SATA III, 2.5, 7mm
+ -  11,318.00 -- SSD Western Digital WD Blue 3D NAND, 2TB, M.2
+ -  12,432.00 -- SSD Kingston A400, 120GB, SATA III, 2.5'', 7mm
+ -  13,299.00 -- SSD XPG SX8200 Pro, 256GB, PCI Express, M.2
+ -  13,335.00 -- SSD Adata Ultimate SU800, 256GB, SATA III, 2.5'', 7mm
+ -  23,031.00 -- SSD Kingston A2000 NVMe, 1TB, PCI Express 3.0, M2
+Las ventas discos duros   92,978.00      Representa el: 12.99%
+
+
+memorias usb
+ -   2,519.00 -- Kit Memoria RAM Corsair Dominator Platinum DDR4, 3200MHz, 16GB (2x 8GB), Non-ECC, CL16, XMP
+Las ventas memorias usb    2,519.00      Representa el:  0.35%
+
+
+pantallas
+ -   3,229.00 -- TV Monitor LED 24TL520S-PU 24, HD, Widescreen, HDMI, Negro
+ -   8,049.00 -- TCL Smart TV LED 55S425 54.6, 4K Ultra HD, Widescreen, Negro
+Las ventas pantallas   11,278.00     Representa el:  1.58%
+
+
+bocinas
+ -   8,478.00 -- Logitech Bocinas para Computadora con Subwoofer G560, Bluetooth, Inalámbrico, 2.1, 120W RMS, USB, negro
+Las ventas bocinas    8,478.00   Representa el:  1.18%
+
+
+audifonos
+ -     859.00 -- Cougar Audífonos Gamer Phontum Essential, Alámbrico, 1.9 Metros, 3.5mm, Negro.
+ -   1,089.00 -- Logitech Audífonos Gamer G332, Alámbrico, 2 Metros, 3.5mm, Negro/Rojo
+ -   2,869.00 -- HyperX Audífonos Gamer Cloud Flight para PC/PS4/PS4 Pro, Inalámbrico, USB, 3.5mm, Negro
+ -   4,318.00 -- Logitech Audífonos Gamer G635 7.1, Alámbrico, 1.5 Metros, 3.5mm, Negro/Azul
+Las ventas audifonos    9,135.00     Representa el:  1.28%
+
+
+ Catergorias <<<
+
+
+          memorias usb  Ventas:   2,519.00 que representa el:  0.35% con una Inversion en stock de:  25,190.00
+               bocinas  Ventas:   8,478.00 que representa el:  1.18% con una Inversion en stock de:   4,239.00
+             audifonos  Ventas:   9,135.00 que representa el:  1.28% con una Inversion en stock de:  90,387.00
+             pantallas  Ventas:  11,278.00 que representa el:  1.58% con una Inversion en stock de:  17,394.00
+          discos duros  Ventas:  92,978.00 que representa el: 12.99% con una Inversion en stock de:   9,672.00
+        tarjetas madre  Ventas: 104,541.00 que representa el: 14.61% con una Inversion en stock de:  24,990.00
+     tarjetas de video  Ventas: 132,025.00 que representa el: 18.45% con una Inversion en stock de:  11,557.00
+          procesadores  Ventas: 363,308.00 que representa el: 50.77% con una Inversion en stock de:  48,304.00
+
+
+Productos Vendidos por numero de buscados
+
+
+     1 --> Procesador Intel Core i3-8100, S-1151, 3.60GHz, Quad-Core, 6MB Smart Cache (8va. Generación - Coffee Lake)
+     1 --> MSI GeForce 210, 1GB GDDR3, DVI, VGA, HDCP, PCI Express 2.0
+     1 --> Tarjeta de Video VisionTek AMD Radeon HD5450, 2GB GDDR3, PCI Express x16
+     1 --> Tarjeta Madre Gigabyte micro ATX Z390 M GAMING, S-1151, Intel Z390, HDMI, 64GB DDR4 para Intel 
+     1 --> Tarjeta Madre ASRock ATX H110 Pro BTC+, S-1151, Intel H110, 32GB DDR4, para Intel
+     1 --> SSD Samsung 860 EVO, 1TB, SATA III, M.2
+     1 --> Samsung Smart TV LED 43, Full HD, Widescreen, Negro
+     1 --> Ghia Bocina Portátil BX800, Bluetooth, Inalámbrico, 2.1 Canales, 31W, USB, Negro
+     1 --> Ginga Audífonos con Micrófono GI18ADJ01BT-RO, Bluetooth, Alámbrico/Inalámbrico, 3.5mm, Rojo
+     2 --> Tarjeta de Video Asus NVIDIA GeForce GTX 1050 Ti Phoenix, 4GB 128-bit GDDR5, PCI Express 3.0
+     2 --> SSD para Servidor Lenovo Thinksystem S4500, 480GB, SATA III, 3.5'', 7mm
+     2 --> Acteck Bocina con Subwoofer AXF-290, Bluetooth, Inalámbrico, 2.1, 18W RMS, 180W PMPO, USB, Negro
+     2 --> Genius GHP-400S Audífonos, Alámbrico, 1.5 Metros, Rosa
+     3 --> Tarjeta de Video Gigabyte AMD Radeon R7 370 OC, 2GB 256-bit GDDR5, PCI Express 3.0
+     3 --> ASUS T. Madre uATX M4A88T-M, S-AM3, DDR3 para Phenom II/Athlon II/Sempron 100
+     3 --> Iogear Audífonos Gamer GHG601, Alámbrico, 1.2 Metros, 3.5mm, Negro
+     4 --> Tarjeta de Video EVGA NVIDIA GeForce GTX 1660 Ti SC Ultra Gaming, 6GB 192-bit GDDR6, PCI 3.0
+     4 --> Tarjeta Madre Gigabyte micro ATX GA-H110M-DS2, S-1151, Intel H110, 32GB DDR4 para Intel
+     4 --> Seiki TV LED SC-39HS950N 38.5, HD, Widescreen, Negro
+     4 --> Samsung Smart TV LED UN55TU7000FXZX 55, 4K Ultra HD, Widescreen, Negro/Gris
+     5 --> Tarjeta de Video ASUS AMD Radeon RX 570, 4GB 256-bit GDDR5, PCI Express 3.0
+     5 --> Tarjeta de Video MSI NVIDIA GeForce GTX 1050 Ti OC, 4GB 128-bit GDDR5, PCI Express x16 3.0
+     5 --> Tarjeta de Video VisionTek AMD Radeon HD 5450, 1GB DDR3, PCI Express x16 2.1
+     5 --> Tarjeta de Video Zotac NVIDIA GeForce GTX 1660 Ti, 6GB 192-bit GDDR6, PCI Express x16 3.0
+     5 --> SSD Western Digital WD Blue 3D NAND, 2TB, M.2
+     6 --> Logitech Bocinas para Computadora con Subwoofer G560, Bluetooth, Inalámbrico, 2.1, 120W RMS, USB, negro
+     6 --> HyperX Audífonos Gamer Cloud Flight para PC/PS4/PS4 Pro, Inalámbrico, USB, 3.5mm, Negro
+     7 --> SSD Crucial MX500, 1TB, SATA III, M.2
+     7 --> Cougar Audífonos Gamer Phontum Essential, Alámbrico, 1.9 Metros, 3.5mm, Negro.
+    10 --> Procesador AMD Ryzen 3 3300X S-AM4, 3.80GHz, Quad-Core, 16MB L2 Cache
+    10 --> Procesador Intel Core i9-9900K, S-1151, 3.60GHz, 8-Core, 16MB Smart Cache (9na. Generación Coffee Lake)
+    10 --> Tarjeta de Video Sapphire AMD Pulse Radeon RX 5500 XT Gaming, 8GB 128-bit GDDR6, PCI Express 4.0
+    10 --> Tarjeta Madre AORUS micro ATX B450 AORUS M (rev. 1.0), S-AM4, AMD B450, HDMI, 64GB DDR4 para AMD
+    10 --> Tarjeta Madre Gigabyte XL-ATX TRX40 Designare, S-sTRX4, AMD TRX40, 256GB DDR4 para AMD
+    10 --> Kit SSD Kingston KC600, 1TB, SATA III, 2.5, 7mm
+    10 --> Logitech Audífonos Gamer G332, Alámbrico, 2 Metros, 3.5mm, Negro/Rojo
+    11 --> Tarjeta de Video Gigabyte NVIDIA GeForce GT 1030, 2GB 64-bit GDDR5, PCI Express x16 3.0
+    11 --> SSD Kingston UV500, 480GB, SATA III, mSATA
+    15 --> Tarjeta de Video ASUS NVIDIA GeForce GTX 1660 SUPER EVO OC, 6GB 192-bit GDDR6, PCI Express x16 3.0
+    15 --> Tarjeta de Video MSI AMD Mech Radeon RX 5500 XT MECH Gaming OC, 8GB 128-bit GDDR6, PCI Express 4.0
+    15 --> TCL Smart TV LED 55S425 54.6, 4K Ultra HD, Widescreen, Negro
+    20 --> Procesador Intel Core i5-9600K, S-1151, 3.70GHz, Six-Core, 9MB Smart Cache (9na. Generiación - Coffee Lake)
+    23 --> Tarjeta Madre ASRock Micro ATX B450M Steel Legend, S-AM4, AMD B450, HDMI, 64GB DDR4 para AMD
+    24 --> Procesador AMD Ryzen 5 3600, S-AM4, 3.60GHz, 32MB L3 Cache, con Disipador Wraith Stealth
+    25 --> Tarjeta Madre MSI ATX B450 TOMAHAWK MAX, S-AM4, AMD B450, 64GB DDR4 para AMD
+    27 --> SSD Kingston A2000 NVMe, 1TB, PCI Express 3.0, M2
+    30 --> Procesador Intel Core i3-9100F, S-1151, 3.60GHz, Quad-Core, 6MB Cache (9na. Generación - Coffee Lake)
+    30 --> SSD XPG SX8200 Pro, 256GB, PCI Express, M.2
+    31 --> Procesador Intel Core i7-9700K, S-1151, 3.60GHz, 8-Core, 12MB Smart Cache (9na. Generación Coffee Lake)
+    32 --> TV Monitor LED 24TL520S-PU 24, HD, Widescreen, HDMI, Negro
+    35 --> Logitech Audífonos Gamer G635 7.1, Alámbrico, 1.5 Metros, 3.5mm, Negro/Azul
+    41 --> Procesador AMD Ryzen 3 3200G con Gráficos Radeon Vega 8, S-AM4, 3.60GHz, Quad-Core, 4MB L3, con Disipador Wraith Spire
+    55 --> Procesador AMD Ryzen 5 2600, S-AM4, 3.40GHz, Six-Core, 16MB L3 Cache, con Disipador Wraith Stealth
+    60 --> Tarjeta Madre ASUS micro ATX TUF B450M-PLUS GAMING, S-AM4, AMD B450, HDMI, 64GB DDR4 para AMD
+   107 --> SSD Adata Ultimate SU800, 256GB, SATA III, 2.5'', 7mm
+   263 --> SSD Kingston A400, 120GB, SATA III, 2.5'', 7mm
+
+
+Total de Busquedas  1033
+
+
+
+
+Los productos que representan el 20-80 de los buscados es 206.60000000000002
+
+
+     1 -->       0.00 -- Procesador Intel Core i3-8100, S-1151, 3.60GHz, Quad-Core, 6MB Smart Cache (8va. Generación - Coffee Lake)
+     1 -->     889.00 -- MSI GeForce 210, 1GB GDDR3, DVI, VGA, HDCP, PCI Express 2.0
+     1 -->       0.00 -- Tarjeta de Video VisionTek AMD Radeon HD5450, 2GB GDDR3, PCI Express x16
+     1 -->       0.00 -- Tarjeta Madre Gigabyte micro ATX Z390 M GAMING, S-1151, Intel Z390, HDMI, 64GB DDR4 para Intel 
+     1 -->  -2,869.00 -- Tarjeta Madre ASRock ATX H110 Pro BTC+, S-1151, Intel H110, 32GB DDR4, para Intel
+     1 -->       0.00 -- SSD Samsung 860 EVO, 1TB, SATA III, M.2
+     1 -->       0.00 -- Samsung Smart TV LED 43, Full HD, Widescreen, Negro
+     1 -->       0.00 -- Ghia Bocina Portátil BX800, Bluetooth, Inalámbrico, 2.1 Canales, 31W, USB, Negro
+     1 -->       0.00 -- Ginga Audífonos con Micrófono GI18ADJ01BT-RO, Bluetooth, Alámbrico/Inalámbrico, 3.5mm, Rojo
+     2 -->   3,989.00 -- Tarjeta de Video Asus NVIDIA GeForce GTX 1050 Ti Phoenix, 4GB 128-bit GDDR5, PCI Express 3.0
+     2 -->       0.00 -- SSD para Servidor Lenovo Thinksystem S4500, 480GB, SATA III, 3.5'', 7mm
+     2 -->       0.00 -- Acteck Bocina con Subwoofer AXF-290, Bluetooth, Inalámbrico, 2.1, 18W RMS, 180W PMPO, USB, Negro
+     2 -->       0.00 -- Genius GHP-400S Audífonos, Alámbrico, 1.5 Metros, Rosa
+     3 -->  -4,199.00 -- Tarjeta de Video Gigabyte AMD Radeon R7 370 OC, 2GB 256-bit GDDR5, PCI Express 3.0
+     3 -->       0.00 -- ASUS T. Madre uATX M4A88T-M, S-AM3, DDR3 para Phenom II/Athlon II/Sempron 100
+     3 -->       0.00 -- Iogear Audífonos Gamer GHG601, Alámbrico, 1.2 Metros, 3.5mm, Negro
+     4 -->       0.00 -- Tarjeta de Video EVGA NVIDIA GeForce GTX 1660 Ti SC Ultra Gaming, 6GB 192-bit GDDR6, PCI 3.0
+     4 -->  -1,539.00 -- Tarjeta Madre Gigabyte micro ATX GA-H110M-DS2, S-1151, Intel H110, 32GB DDR4 para Intel
+     4 -->       0.00 -- Seiki TV LED SC-39HS950N 38.5, HD, Widescreen, Negro
+     4 -->       0.00 -- Samsung Smart TV LED UN55TU7000FXZX 55, 4K Ultra HD, Widescreen, Negro/Gris
+     5 -->  22,197.00 -- Tarjeta de Video ASUS AMD Radeon RX 570, 4GB 256-bit GDDR5, PCI Express 3.0
+     5 -->   3,429.00 -- Tarjeta de Video MSI NVIDIA GeForce GTX 1050 Ti OC, 4GB 128-bit GDDR5, PCI Express x16 3.0
+     5 -->       0.00 -- Tarjeta de Video VisionTek AMD Radeon HD 5450, 1GB DDR3, PCI Express x16 2.1
+     5 -->   9,579.00 -- Tarjeta de Video Zotac NVIDIA GeForce GTX 1660 Ti, 6GB 192-bit GDDR6, PCI Express x16 3.0
+     5 -->  11,318.00 -- SSD Western Digital WD Blue 3D NAND, 2TB, M.2
+     6 -->   8,478.00 -- Logitech Bocinas para Computadora con Subwoofer G560, Bluetooth, Inalámbrico, 2.1, 120W RMS, USB, negro
+     6 -->   2,869.00 -- HyperX Audífonos Gamer Cloud Flight para PC/PS4/PS4 Pro, Inalámbrico, USB, 3.5mm, Negro
+     7 -->   2,949.00 -- SSD Crucial MX500, 1TB, SATA III, M.2
+     7 -->     859.00 -- Cougar Audífonos Gamer Phontum Essential, Alámbrico, 1.9 Metros, 3.5mm, Negro.
+    10 -->   6,038.00 -- Procesador AMD Ryzen 3 3300X S-AM4, 3.80GHz, Quad-Core, 16MB L2 Cache
+    10 -->  35,427.00 -- Procesador Intel Core i9-9900K, S-1151, 3.60GHz, 8-Core, 16MB Smart Cache (9na. Generación Coffee Lake)
+    10 -->  11,058.00 -- Tarjeta de Video Sapphire AMD Pulse Radeon RX 5500 XT Gaming, 8GB 128-bit GDDR6, PCI Express 4.0
+    10 -->       0.00 -- Tarjeta Madre AORUS micro ATX B450 AORUS M (rev. 1.0), S-AM4, AMD B450, HDMI, 64GB DDR4 para AMD
+    10 -->  17,439.00 -- Tarjeta Madre Gigabyte XL-ATX TRX40 Designare, S-sTRX4, AMD TRX40, 256GB DDR4 para AMD
+    10 -->   9,417.00 -- Kit SSD Kingston KC600, 1TB, SATA III, 2.5, 7mm
+    10 -->   1,089.00 -- Logitech Audífonos Gamer G332, Alámbrico, 2 Metros, 3.5mm, Negro/Rojo
+    11 -->  10,995.00 -- Tarjeta de Video Gigabyte NVIDIA GeForce GT 1030, 2GB 64-bit GDDR5, PCI Express x16 3.0
+    11 -->   7,197.00 -- SSD Kingston UV500, 480GB, SATA III, mSATA
+    15 -->  59,571.00 -- Tarjeta de Video ASUS NVIDIA GeForce GTX 1660 SUPER EVO OC, 6GB 192-bit GDDR6, PCI Express x16 3.0
+    15 -->  10,318.00 -- Tarjeta de Video MSI AMD Mech Radeon RX 5500 XT MECH Gaming OC, 8GB 128-bit GDDR6, PCI Express 4.0
+
+
+Y Representan un Total de Ventas 226498.0
+
+
+
+
+Productos vendidos por "score" 
+
+
+Mejores Score 
+
+ 5  --> 129,738.00 --> Procesador AMD Ryzen 5 2600, S-AM4, 3.40GHz, Six-Core, 16MB L3 Cache, con Disipador Wraith Stealth
+ 5  -->  59,913.00 --> Procesador Intel Core i7-9700K, S-1151, 3.60GHz, 8-Core, 12MB Smart Cache (9na. Generación Coffee Lake)
+ 5  -->  35,580.00 --> Procesador Intel Core i3-9100F, S-1151, 3.60GHz, Quad-Core, 6MB Cache (9na. Generación - Coffee Lake)
+ 5  -->  35,427.00 --> Procesador Intel Core i9-9900K, S-1151, 3.60GHz, 8-Core, 16MB Smart Cache (9na. Generación Coffee Lake)
+ 5  -->  28,717.00 --> Procesador AMD Ryzen 3 3200G con Gráficos Radeon Vega 8, S-AM4, 3.60GHz, Quad-Core, 4MB L3, con Disipador Wraith Spire
+ 5  -->  23,031.00 --> SSD Kingston A2000 NVMe, 1TB, PCI Express 3.0, M2
+ 5  -->  22,197.00 --> Tarjeta de Video ASUS AMD Radeon RX 570, 4GB 256-bit GDDR5, PCI Express 3.0
+ 5  -->  21,596.00 --> Procesador Intel Core i5-9600K, S-1151, 3.70GHz, Six-Core, 9MB Smart Cache (9na. Generiación - Coffee Lake)
+ 5  -->  17,439.00 --> Tarjeta Madre Gigabyte XL-ATX TRX40 Designare, S-sTRX4, AMD TRX40, 256GB DDR4 para AMD
+ 5  -->  16,554.00 --> Tarjeta Madre MSI ATX B450 TOMAHAWK MAX, S-AM4, AMD B450, 64GB DDR4 para AMD
+ 5  -->  13,335.00 --> SSD Adata Ultimate SU800, 256GB, SATA III, 2.5'', 7mm
+ 5  -->  13,299.00 --> SSD XPG SX8200 Pro, 256GB, PCI Express, M.2
+ 5  -->  11,318.00 --> SSD Western Digital WD Blue 3D NAND, 2TB, M.2
+ 5  -->  11,058.00 --> Tarjeta de Video Sapphire AMD Pulse Radeon RX 5500 XT Gaming, 8GB 128-bit GDDR6, PCI Express 4.0
+ 5  -->  10,318.00 --> Tarjeta de Video MSI AMD Mech Radeon RX 5500 XT MECH Gaming OC, 8GB 128-bit GDDR6, PCI Express 4.0
+ 5  -->   9,579.00 --> Tarjeta de Video Zotac NVIDIA GeForce GTX 1660 Ti, 6GB 192-bit GDDR6, PCI Express x16 3.0
+ 5  -->   9,417.00 --> Kit SSD Kingston KC600, 1TB, SATA III, 2.5, 7mm
+ 5  -->   8,478.00 --> Logitech Bocinas para Computadora con Subwoofer G560, Bluetooth, Inalámbrico, 2.1, 120W RMS, USB, negro
+ 5  -->   8,049.00 --> TCL Smart TV LED 55S425 54.6, 4K Ultra HD, Widescreen, Negro
+ 5  -->   7,197.00 --> SSD Kingston UV500, 480GB, SATA III, mSATA
+
+
+ Menor Score : 
+
+ 1  -->  -4,199.00 --> Tarjeta de Video Gigabyte AMD Radeon R7 370 OC, 2GB 256-bit GDDR5, PCI Express 3.0
+ 1  -->  -2,869.00 --> Tarjeta Madre ASRock ATX H110 Pro BTC+, S-1151, Intel H110, 32GB DDR4, para Intel
+ 1  -->       0.00 --> Tarjeta Madre AORUS micro ATX B450 AORUS M (rev. 1.0), S-AM4, AMD B450, HDMI, 64GB DDR4 para AMD
+ 1  -->  29,988.00 --> Tarjeta Madre ASUS micro ATX TUF B450M-PLUS GAMING, S-AM4, AMD B450, HDMI, 64GB DDR4 para AMD
+ 2  -->  -1,539.00 --> Tarjeta Madre Gigabyte micro ATX GA-H110M-DS2, S-1151, Intel H110, 32GB DDR4 para Intel
+ 3  -->     859.00 --> Cougar Audífonos Gamer Phontum Essential, Alámbrico, 1.9 Metros, 3.5mm, Negro.
+ 3  -->  46,299.00 --> Procesador AMD Ryzen 5 3600, S-AM4, 3.60GHz, 32MB L3 Cache, con Disipador Wraith Stealth
+ 4  -->     889.00 --> MSI GeForce 210, 1GB GDDR3, DVI, VGA, HDCP, PCI Express 2.0
+ 4  -->   2,869.00 --> HyperX Audífonos Gamer Cloud Flight para PC/PS4/PS4 Pro, Inalámbrico, USB, 3.5mm, Negro
+ 4  -->   3,989.00 --> Tarjeta de Video Asus NVIDIA GeForce GTX 1050 Ti Phoenix, 4GB 128-bit GDDR5, PCI Express 3.0
+ 4  -->   8,538.00 --> Tarjeta Madre ASUS ATX PRIME Z390-A, S-1151, Intel Z390, HDMI, 64GB DDR4 para Intel 
+ 4  -->  10,995.00 --> Tarjeta de Video Gigabyte NVIDIA GeForce GT 1030, 2GB 64-bit GDDR5, PCI Express x16 3.0
+ 4  -->  12,432.00 --> SSD Kingston A400, 120GB, SATA III, 2.5'', 7mm
+ 4  -->  32,022.00 --> Tarjeta Madre ASRock Micro ATX B450M Steel Legend, S-AM4, AMD B450, HDMI, 64GB DDR4 para AMD
+ 4  -->  59,571.00 --> Tarjeta de Video ASUS NVIDIA GeForce GTX 1660 SUPER EVO OC, 6GB 192-bit GDDR6, PCI Express x16 3.0
+ 5  -->   1,089.00 --> Logitech Audífonos Gamer G332, Alámbrico, 2 Metros, 3.5mm, Negro/Rojo
+ 5  -->   2,519.00 --> Kit Memoria RAM Corsair Dominator Platinum DDR4, 3200MHz, 16GB (2x 8GB), Non-ECC, CL16, XMP
+ 5  -->   2,949.00 --> SSD Crucial MX500, 1TB, SATA III, M.2
+ 5  -->   3,229.00 --> TV Monitor LED 24TL520S-PU 24, HD, Widescreen, HDMI, Negro
+ 5  -->   3,429.00 --> Tarjeta de Video MSI NVIDIA GeForce GTX 1050 Ti OC, 4GB 128-bit GDDR5, PCI Express x16 3.0
+
+
+Productos sin ventas 
+
+
+ 239.00 1,010,731.00  Makena Smart TV LED 40S2 40'', Full HD, Widescreen, Negro
+ 286.00   952,094.00  Tarjeta Madre ASUS micro ATX Prime H370M-Plus/CSM, S-1151, Intel H370, HDMI, 64GB DDR4 para Intel
+  71.00   854,059.00  Samsung TV LED LH43QMREBGCXGO 43, 4K Ultra HD, Widescreen, Negro
+  94.00   503,746.00  Hisense Smart TV LED 40H5500F 39.5, Full HD, Widescreen, Negro
+ 146.00   491,874.00  Seiki TV LED SC-39HS950N 38.5, HD, Widescreen, Negro
+ 120.00   267,480.00  Tarjeta Madre AORUS micro ATX B450 AORUS M (rev. 1.0), S-AM4, AMD B450, HDMI, 64GB DDR4 para AMD
+  60.00   257,340.00  Tarjeta Madre ASRock ATX Z490 STEEL LEGEND, S-1200, Intel Z490, HDMI, 128GB DDR4 para Intel
+ 180.00   224,820.00  Tarjeta de Video VisionTek AMD Radeon HD 5450, 1GB DDR3, PCI Express x16 2.1
+  98.00   212,562.00  ASUS T. Madre uATX M4A88T-M, S-AM3, DDR3 para Phenom II/Athlon II/Sempron 100
+  50.00   201,450.00  Tarjeta Madre AORUS ATX Z390 ELITE, S-1151, Intel Z390, HDMI, 64GB DDR4 para Intel
+  20.00   167,180.00  ASUS Audífonos Gamer ROG Theta 7.1, Alámbrico, USB C, Negro
+   7.00   147,553.00  Samsung Smart TV LED UN70RU7100FXZX 70, 4K Ultra HD, Widescreen, Negro
+  15.00   126,585.00  Tarjeta de Video EVGA NVIDIA GeForce GTX 1660 Ti SC Ultra Gaming, 6GB 192-bit GDDR6, PCI 3.0
+  10.00   115,090.00  Tarjeta de Video Gigabyte NVIDIA GeForce RTX 2060 SUPER WINDFORCE OC, 8 GB 256 bit GDDR6, PCI Express x16 3.0
+  11.00   107,349.00  Hisense Smart TV LED 50H8F 49.5, 4K Ultra HD, Widescreen, Negro
+  30.00   102,570.00  Tarjeta Madre Gigabyte micro ATX Z390 M GAMING, S-1151, Intel Z390, HDMI, 64GB DDR4 para Intel 
+  10.00    97,990.00  Tarjeta de Video EVGA NVIDIA GeForce RTX 2060 SC ULTRA Gaming, 6GB 192-bit GDDR6, PCI Express 3.0
+  43.00    90,687.00  Tarjeta de Video VisionTek AMD Radeon HD5450, 2GB GDDR3, PCI Express x16
+  35.00    89,215.00  Procesador Intel Core i3-8100, S-1151, 3.60GHz, Quad-Core, 6MB Smart Cache (8va. Generación - Coffee Lake)
+  10.00    76,790.00  Samsung Smart TV LED 43, Full HD, Widescreen, Negro
+   2.00    60,898.00  Tarjeta de Video PNY NVIDIA GeForce RTX 2080, 8GB 256-bit GDDR6, PCI Express 3.0 
+  16.00    58,864.00  SSD para Servidor Lenovo Thinksystem S4510, 480GB, SATA III, 2.5'', 7mm
+  10.00    55,390.00  SSD Samsung 860 EVO, 1TB, SATA III, M.2
+  36.00    51,804.00  Tarjeta de Video EVGA NVIDIA GeForce GT 710, 2GB 64-bit GDDR3, PCI Express 2.0
+  10.00    43,990.00  SSD para Servidor Supermicro SSD-DM128-SMCMVN1, 128GB, SATA III, mSATA, 6Gbit/s
+  10.00    43,090.00  Tarjeta Madre ASRock Z390 Phantom Gaming 4, S-1151, Intel Z390, HDMI, 64GB DDR4 para Intel 
+   4.00    42,236.00  Samsung Smart TV LED UN55TU7000FXZX 55, 4K Ultra HD, Widescreen, Negro/Gris
+  10.00    41,590.00  Tarjeta Madre Gigabyte micro ATX Z490M GAMING X (rev. 1.0), Intel Z490, HDMI, 128GB DDR4 para Intel
+   8.00    36,072.00  Tarjeta de Video Gigabyte NVIDIA GeForce GTX 1650 OC Low Profile, 4GB 128-bit GDDR5, PCI Express 3.0 x16
+ 232.00    34,568.00  Getttech Audífonos con Micrófono Sonority, Alámbrico, 1.2 Metros, 3.5mm, Negro/Rosa
+   5.00    31,845.00  Tarjeta Madre ASUS ATX ROG STRIX Z390-E GAMING, S-1151, Intel Z390, HDMI, 64GB DDR4 para Intel
+   5.00    26,045.00  Kit Memoria RAM Corsair Vengeance LPX DDR4, 2400MHz, 32GB, Non-ECC, CL16
+  20.00    23,380.00  Ghia Bocina Portátil BX900, Bluetooth, Inalámbrico, 2.1 Canales, 34W, USB, Negro - Resistente al Agua
+ 139.00    22,240.00  Ginga Audífonos con Micrófono GI18ADJ01BT-RO, Bluetooth, Alámbrico/Inalámbrico, 3.5mm, Rojo
+  31.00    21,979.00  Naceb Bocina Portátil NA-0301, Bluetooth, Inalámbrico, USB 2.0, Rojo
+  15.00    20,535.00  Tarjeta Madre Gigabyte Micro ATX H310M DS2 2.0, S-1151, Intel H310, 32GB DDR4 para Intel 
+  15.00    20,385.00  Ghia Bocina Portátil BX800, Bluetooth, Inalámbrico, 2.1 Canales, 31W, USB, Negro
+   6.00    17,394.00  Makena Smart TV LED 32S2 32'', HD, Widescreen, Gris
+  31.00    17,019.00  Ghia Bocina Portátil BX400, Bluetooth, Inalámbrico, 8W RMS, USB, Negro
+   3.00    14,487.00  Samsung Smart TV LED UN32J4290AF 32, HD, Widescreen, Negro
+   8.00    13,752.00  Acer Audífonos Gamer Galea 300, Alámbrico, 3.5mm, Negro
+  15.00    13,635.00  Audífonos Gamer Balam Rush Orphix RGB 7.1, Alámbrico, USB, Negro
+  18.00    10,602.00  Acteck Bocina con Subwoofer AXF-290, Bluetooth, Inalámbrico, 2.1, 18W RMS, 180W PMPO, USB, Negro
+   2.00    10,578.00  Tarjeta Madre ASUS ATX ROG STRIX B550-F GAMING WI-FI, S-AM4, AMD B550, HDMI, max. 128GB DDR4 para AMD
+   3.00     9,807.00  SSD para Servidor Lenovo Thinksystem S4500, 480GB, SATA III, 3.5'', 7mm
+  10.00     9,090.00  Tarjeta de Video MSI Radeon X1550, 128MB 64 bit GDDR2, PCI Express x16
+  16.00     7,984.00  Ghia Bocina Portátil BX500, Bluetooth, Inalámbrico, 10W RMS, USB, Gris
+  11.00     4,851.00  Lenovo Barra de Sonido, Alámbrico, 2.5W, USB, Negro
+  16.00     2,192.00  Genius GHP-400S Audífonos, Alámbrico, 1.5 Metros, Rosa
+   1.00     2,039.00  SSD Addlink Technology S70, 512GB, PCI Express 3.0, M.2
+   2.00     1,998.00  Iogear Audífonos Gamer GHG601, Alámbrico, 1.2 Metros, 3.5mm, Negro
+   2.00     1,538.00  Ghia Bocina Portátil BX300, Bluetooth, Inalámbrico, 40W RMS, USB, Rojo - Resistente al Agua
+   2.00     1,538.00  Klip Xtreme Audífonos Blast, Bluetooth, Inalámbrico, Negro/Verde
+   1.00       539.00  Energy Sistem Audífonos con Micrófono Headphones 1, Bluetooh, Inalámbrico, Negro/Grafito
+   1.00       178.00  Verbatim Bocina Portátil Mini, Bluetooth, Inalámbrico, 3W RMS, USB, Blanco
+
+
+Inversion total de productos NO VENDIDOS --> 6,871,297.00 
+
+
+
+ Mes : 1
+  46,335.00 | 3 | Procesador AMD Ryzen 5 2600, S-AM4, 3.40GHz, Six-Core, 16MB L3 Cache, con Disipador Wraith Stealth 
+  10,798.00 | 8 | Procesador Intel Core i5-9600K, S-1151, 3.70GHz, Six-Core, 9MB Smart Cache (9na. Generiación - Coffee Lake) 
+   9,996.00 | 29 | Tarjeta Madre ASUS micro ATX TUF B450M-PLUS GAMING, S-AM4, AMD B450, HDMI, 64GB DDR4 para AMD 
+   8,836.00 | 4 | Procesador AMD Ryzen 3 3200G con Gráficos Radeon Vega 8, S-AM4, 3.60GHz, Quad-Core, 4MB L3, con Disipador Wraith Spire 
+   8,418.00 | 2 | Procesador AMD Ryzen 5 3600, S-AM4, 3.60GHz, 32MB L3 Cache, con Disipador Wraith Stealth 
+   7,677.00 | 48 | SSD Kingston A2000 NVMe, 1TB, PCI Express 3.0, M2 
+   5,659.00 | 52 | SSD Western Digital WD Blue 3D NAND, 2TB, M.2 
+   4,445.00 | 57 | SSD Adata Ultimate SU800, 256GB, SATA III, 2.5'', 7mm 
+   3,558.00 | 5 | Procesador Intel Core i3-9100F, S-1151, 3.60GHz, Quad-Core, 6MB Cache (9na. Generación - Coffee Lake) 
+   2,759.00 | 44 | Tarjeta Madre MSI ATX B450 TOMAHAWK MAX, S-AM4, AMD B450, 64GB DDR4 para AMD 
+   2,418.00 | 47 | SSD XPG SX8200 Pro, 256GB, PCI Express, M.2 
+   2,399.00 | 51 | SSD Kingston UV500, 480GB, SATA III, mSATA 
+   2,229.00 | 31 | Tarjeta Madre AORUS micro ATX B450 AORUS M (rev. 1.0), S-AM4, AMD B450, HDMI, 64GB DDR4 para AMD 
+   2,072.00 | 54 | SSD Kingston A400, 120GB, SATA III, 2.5'', 7mm 
+   1,779.00 | 42 | Tarjeta Madre ASRock Micro ATX B450M Steel Legend, S-AM4, AMD B450, HDMI, 64GB DDR4 para AMD 
+     859.00 | 89 | Cougar Audífonos Gamer Phontum Essential, Alámbrico, 1.9 Metros, 3.5mm, Negro. 
+ Ventas Acumuladas del mes 444,805.00 
+
+ Mes : 2
+  11,809.00 | 6 | Procesador Intel Core i9-9900K, S-1151, 3.60GHz, 8-Core, 16MB Smart Cache (9na. Generación Coffee Lake) 
+   9,267.00 | 3 | Procesador AMD Ryzen 5 2600, S-AM4, 3.40GHz, Six-Core, 16MB L3 Cache, con Disipador Wraith Stealth 
+   8,559.00 | 7 | Procesador Intel Core i7-9700K, S-1151, 3.60GHz, 8-Core, 12MB Smart Cache (9na. Generación Coffee Lake) 
+   8,478.00 | 74 | Logitech Bocinas para Computadora con Subwoofer G560, Bluetooth, Inalámbrico, 2.1, 120W RMS, USB, negro 
+   8,418.00 | 2 | Procesador AMD Ryzen 5 3600, S-AM4, 3.60GHz, 32MB L3 Cache, con Disipador Wraith Stealth 
+   7,497.00 | 29 | Tarjeta Madre ASUS micro ATX TUF B450M-PLUS GAMING, S-AM4, AMD B450, HDMI, 64GB DDR4 para AMD 
+   6,619.00 | 12 | Tarjeta de Video ASUS NVIDIA GeForce GTX 1660 SUPER EVO OC, 6GB 192-bit GDDR6, PCI Express x16 3.0 
+   6,597.00 | 18 | Tarjeta de Video Gigabyte NVIDIA GeForce GT 1030, 2GB 64-bit GDDR5, PCI Express x16 3.0 
+   5,399.00 | 8 | Procesador Intel Core i5-9600K, S-1151, 3.70GHz, Six-Core, 9MB Smart Cache (9na. Generiación - Coffee Lake) 
+   5,337.00 | 5 | Procesador Intel Core i3-9100F, S-1151, 3.60GHz, Quad-Core, 6MB Cache (9na. Generación - Coffee Lake) 
+   5,159.00 | 21 | Tarjeta de Video MSI AMD Mech Radeon RX 5500 XT MECH Gaming OC, 8GB 128-bit GDDR6, PCI Express 4.0 
+   5,118.00 | 48 | SSD Kingston A2000 NVMe, 1TB, PCI Express 3.0, M2 
+   4,269.00 | 33 | Tarjeta Madre ASUS ATX PRIME Z390-A, S-1151, Intel Z390, HDMI, 64GB DDR4 para Intel  
+   3,558.00 | 42 | Tarjeta Madre ASRock Micro ATX B450M Steel Legend, S-AM4, AMD B450, HDMI, 64GB DDR4 para AMD 
+   3,556.00 | 57 | SSD Adata Ultimate SU800, 256GB, SATA III, 2.5'', 7mm 
+   2,869.00 | 45 | Tarjeta Madre ASRock ATX H110 Pro BTC+, S-1151, Intel H110, 32GB DDR4, para Intel 
+   2,399.00 | 51 | SSD Kingston UV500, 480GB, SATA III, mSATA 
+   2,209.00 | 4 | Procesador AMD Ryzen 3 3200G con Gráficos Radeon Vega 8, S-AM4, 3.60GHz, Quad-Core, 4MB L3, con Disipador Wraith Spire 
+   1,813.00 | 54 | SSD Kingston A400, 120GB, SATA III, 2.5'', 7mm 
+   1,209.00 | 47 | SSD XPG SX8200 Pro, 256GB, PCI Express, M.2 
+ Ventas Acumuladas del mes 598,809.00 
+
+ Mes : 3
+  26,476.00 | 12 | Tarjeta de Video ASUS NVIDIA GeForce GTX 1660 SUPER EVO OC, 6GB 192-bit GDDR6, PCI Express x16 3.0 
+  17,118.00 | 7 | Procesador Intel Core i7-9700K, S-1151, 3.60GHz, 8-Core, 12MB Smart Cache (9na. Generación Coffee Lake) 
+  12,627.00 | 2 | Procesador AMD Ryzen 5 3600, S-AM4, 3.60GHz, 32MB L3 Cache, con Disipador Wraith Stealth 
+  12,356.00 | 3 | Procesador AMD Ryzen 5 2600, S-AM4, 3.40GHz, Six-Core, 16MB L3 Cache, con Disipador Wraith Stealth 
+  11,809.00 | 6 | Procesador Intel Core i9-9900K, S-1151, 3.60GHz, 8-Core, 16MB Smart Cache (9na. Generación Coffee Lake) 
+  11,058.00 | 25 | Tarjeta de Video Sapphire AMD Pulse Radeon RX 5500 XT Gaming, 8GB 128-bit GDDR6, PCI Express 4.0 
+   9,579.00 | 28 | Tarjeta de Video Zotac NVIDIA GeForce GTX 1660 Ti, 6GB 192-bit GDDR6, PCI Express x16 3.0 
+   8,277.00 | 44 | Tarjeta Madre MSI ATX B450 TOMAHAWK MAX, S-AM4, AMD B450, 64GB DDR4 para AMD 
+   7,399.00 | 11 | Tarjeta de Video ASUS AMD Radeon RX 570, 4GB 256-bit GDDR5, PCI Express 3.0 
+   7,116.00 | 42 | Tarjeta Madre ASRock Micro ATX B450M Steel Legend, S-AM4, AMD B450, HDMI, 64GB DDR4 para AMD 
+   5,659.00 | 52 | SSD Western Digital WD Blue 3D NAND, 2TB, M.2 
+   5,337.00 | 5 | Procesador Intel Core i3-9100F, S-1151, 3.60GHz, Quad-Core, 6MB Cache (9na. Generación - Coffee Lake) 
+   4,998.00 | 29 | Tarjeta Madre ASUS micro ATX TUF B450M-PLUS GAMING, S-AM4, AMD B450, HDMI, 64GB DDR4 para AMD 
+   4,458.00 | 31 | Tarjeta Madre AORUS micro ATX B450 AORUS M (rev. 1.0), S-AM4, AMD B450, HDMI, 64GB DDR4 para AMD 
+   4,418.00 | 4 | Procesador AMD Ryzen 3 3200G con Gráficos Radeon Vega 8, S-AM4, 3.60GHz, Quad-Core, 4MB L3, con Disipador Wraith Spire 
+   4,269.00 | 33 | Tarjeta Madre ASUS ATX PRIME Z390-A, S-1151, Intel Z390, HDMI, 64GB DDR4 para Intel  
+   2,418.00 | 47 | SSD XPG SX8200 Pro, 256GB, PCI Express, M.2 
+   2,399.00 | 51 | SSD Kingston UV500, 480GB, SATA III, mSATA 
+   2,331.00 | 54 | SSD Kingston A400, 120GB, SATA III, 2.5'', 7mm 
+   2,199.00 | 18 | Tarjeta de Video Gigabyte NVIDIA GeForce GT 1030, 2GB 64-bit GDDR5, PCI Express x16 3.0 
+   1,539.00 | 46 | Tarjeta Madre Gigabyte micro ATX GA-H110M-DS2, S-1151, Intel H110, 32GB DDR4 para Intel 
+     889.00 | 57 | SSD Adata Ultimate SU800, 256GB, SATA III, 2.5'', 7mm 
+ Ventas Acumuladas del mes 618,136.00 
+
+ Mes : 4
+  40,157.00 | 3 | Procesador AMD Ryzen 5 2600, S-AM4, 3.40GHz, Six-Core, 16MB L3 Cache, con Disipador Wraith Stealth 
+  19,857.00 | 12 | Tarjeta de Video ASUS NVIDIA GeForce GTX 1660 SUPER EVO OC, 6GB 192-bit GDDR6, PCI Express x16 3.0 
+  17,118.00 | 7 | Procesador Intel Core i7-9700K, S-1151, 3.60GHz, 8-Core, 12MB Smart Cache (9na. Generación Coffee Lake) 
+  10,674.00 | 5 | Procesador Intel Core i3-9100F, S-1151, 3.60GHz, Quad-Core, 6MB Cache (9na. Generación - Coffee Lake) 
+  10,674.00 | 42 | Tarjeta Madre ASRock Micro ATX B450M Steel Legend, S-AM4, AMD B450, HDMI, 64GB DDR4 para AMD 
+   9,996.00 | 29 | Tarjeta Madre ASUS micro ATX TUF B450M-PLUS GAMING, S-AM4, AMD B450, HDMI, 64GB DDR4 para AMD 
+   9,417.00 | 49 | Kit SSD Kingston KC600, 1TB, SATA III, 2.5, 7mm 
+   8,836.00 | 4 | Procesador AMD Ryzen 3 3200G con Gráficos Radeon Vega 8, S-AM4, 3.60GHz, Quad-Core, 4MB L3, con Disipador Wraith Spire 
+   8,418.00 | 2 | Procesador AMD Ryzen 5 3600, S-AM4, 3.60GHz, 32MB L3 Cache, con Disipador Wraith Stealth 
+   7,677.00 | 48 | SSD Kingston A2000 NVMe, 1TB, PCI Express 3.0, M2 
+   7,399.00 | 11 | Tarjeta de Video ASUS AMD Radeon RX 570, 4GB 256-bit GDDR5, PCI Express 3.0 
+   5,518.00 | 44 | Tarjeta Madre MSI ATX B450 TOMAHAWK MAX, S-AM4, AMD B450, 64GB DDR4 para AMD 
+   5,399.00 | 8 | Procesador Intel Core i5-9600K, S-1151, 3.70GHz, Six-Core, 9MB Smart Cache (9na. Generiación - Coffee Lake) 
+   5,159.00 | 21 | Tarjeta de Video MSI AMD Mech Radeon RX 5500 XT MECH Gaming OC, 8GB 128-bit GDDR6, PCI Express 4.0 
+   4,836.00 | 47 | SSD XPG SX8200 Pro, 256GB, PCI Express, M.2 
+   3,989.00 | 13 | Tarjeta de Video Asus NVIDIA GeForce GTX 1050 Ti Phoenix, 4GB 128-bit GDDR5, PCI Express 3.0 
+   3,429.00 | 22 | Tarjeta de Video MSI NVIDIA GeForce GTX 1050 Ti OC, 4GB 128-bit GDDR5, PCI Express x16 3.0 
+   3,367.00 | 54 | SSD Kingston A400, 120GB, SATA III, 2.5'', 7mm 
+   3,229.00 | 67 | TV Monitor LED 24TL520S-PU 24, HD, Widescreen, HDMI, Negro 
+   2,869.00 | 94 | HyperX Audífonos Gamer Cloud Flight para PC/PS4/PS4 Pro, Inalámbrico, USB, 3.5mm, Negro 
+   2,229.00 | 31 | Tarjeta Madre AORUS micro ATX B450 AORUS M (rev. 1.0), S-AM4, AMD B450, HDMI, 64GB DDR4 para AMD 
+   2,159.00 | 85 | Logitech Audífonos Gamer G635 7.1, Alámbrico, 1.5 Metros, 3.5mm, Negro/Azul 
+     889.00 | 57 | SSD Adata Ultimate SU800, 256GB, SATA III, 2.5'', 7mm 
+ Ventas Acumuladas del mes 604,681.00 
+
+ Mes : 5
+  17,439.00 | 40 | Tarjeta Madre Gigabyte XL-ATX TRX40 Designare, S-sTRX4, AMD TRX40, 256GB DDR4 para AMD 
+  11,809.00 | 6 | Procesador Intel Core i9-9900K, S-1151, 3.60GHz, 8-Core, 16MB Smart Cache (9na. Generación Coffee Lake) 
+   9,267.00 | 3 | Procesador AMD Ryzen 5 2600, S-AM4, 3.40GHz, Six-Core, 16MB L3 Cache, con Disipador Wraith Stealth 
+   8,895.00 | 5 | Procesador Intel Core i3-9100F, S-1151, 3.60GHz, Quad-Core, 6MB Cache (9na. Generación - Coffee Lake) 
+   8,418.00 | 2 | Procesador AMD Ryzen 5 3600, S-AM4, 3.60GHz, 32MB L3 Cache, con Disipador Wraith Stealth 
+   8,049.00 | 66 | TCL Smart TV LED 55S425 54.6, 4K Ultra HD, Widescreen, Negro 
+   7,116.00 | 42 | Tarjeta Madre ASRock Micro ATX B450M Steel Legend, S-AM4, AMD B450, HDMI, 64GB DDR4 para AMD 
+   6,619.00 | 12 | Tarjeta de Video ASUS NVIDIA GeForce GTX 1660 SUPER EVO OC, 6GB 192-bit GDDR6, PCI Express x16 3.0 
+   4,458.00 | 31 | Tarjeta Madre AORUS micro ATX B450 AORUS M (rev. 1.0), S-AM4, AMD B450, HDMI, 64GB DDR4 para AMD 
+   2,949.00 | 50 | SSD Crucial MX500, 1TB, SATA III, M.2 
+   2,667.00 | 57 | SSD Adata Ultimate SU800, 256GB, SATA III, 2.5'', 7mm 
+   2,499.00 | 29 | Tarjeta Madre ASUS micro ATX TUF B450M-PLUS GAMING, S-AM4, AMD B450, HDMI, 64GB DDR4 para AMD 
+   2,159.00 | 85 | Logitech Audífonos Gamer G635 7.1, Alámbrico, 1.5 Metros, 3.5mm, Negro/Azul 
+   1,813.00 | 54 | SSD Kingston A400, 120GB, SATA III, 2.5'', 7mm 
+   1,089.00 | 84 | Logitech Audífonos Gamer G332, Alámbrico, 2 Metros, 3.5mm, Negro/Rojo 
+     889.00 | 10 | MSI GeForce 210, 1GB GDDR3, DVI, VGA, HDCP, PCI Express 2.0 
+ Ventas Acumuladas del mes 451,965.00 
+
+ Mes : 6
+   8,559.00 | 7 | Procesador Intel Core i7-9700K, S-1151, 3.60GHz, 8-Core, 12MB Smart Cache (9na. Generación Coffee Lake) 
+   7,399.00 | 11 | Tarjeta de Video ASUS AMD Radeon RX 570, 4GB 256-bit GDDR5, PCI Express 3.0 
+   6,178.00 | 3 | Procesador AMD Ryzen 5 2600, S-AM4, 3.40GHz, Six-Core, 16MB L3 Cache, con Disipador Wraith Stealth 
+   4,418.00 | 4 | Procesador AMD Ryzen 3 3200G con Gráficos Radeon Vega 8, S-AM4, 3.60GHz, Quad-Core, 4MB L3, con Disipador Wraith Spire 
+   4,209.00 | 2 | Procesador AMD Ryzen 5 3600, S-AM4, 3.60GHz, 32MB L3 Cache, con Disipador Wraith Stealth 
+   2,519.00 | 60 | Kit Memoria RAM Corsair Dominator Platinum DDR4, 3200MHz, 16GB (2x 8GB), Non-ECC, CL16, XMP 
+   2,199.00 | 18 | Tarjeta de Video Gigabyte NVIDIA GeForce GT 1030, 2GB 64-bit GDDR5, PCI Express x16 3.0 
+   1,209.00 | 47 | SSD XPG SX8200 Pro, 256GB, PCI Express, M.2 
+     259.00 | 54 | SSD Kingston A400, 120GB, SATA III, 2.5'', 7mm 
+ Ventas Acumuladas del mes 330,577.00 
+
+ Mes : 7
+   8,559.00 | 7 | Procesador Intel Core i7-9700K, S-1151, 3.60GHz, 8-Core, 12MB Smart Cache (9na. Generación Coffee Lake) 
+   6,178.00 | 3 | Procesador AMD Ryzen 5 2600, S-AM4, 3.40GHz, Six-Core, 16MB L3 Cache, con Disipador Wraith Stealth 
+   6,038.00 | 1 | Procesador AMD Ryzen 3 3300X S-AM4, 3.80GHz, Quad-Core, 16MB L2 Cache 
+   1,779.00 | 5 | Procesador Intel Core i3-9100F, S-1151, 3.60GHz, Quad-Core, 6MB Cache (9na. Generación - Coffee Lake) 
+   1,779.00 | 42 | Tarjeta Madre ASRock Micro ATX B450M Steel Legend, S-AM4, AMD B450, HDMI, 64GB DDR4 para AMD 
+   1,209.00 | 47 | SSD XPG SX8200 Pro, 256GB, PCI Express, M.2 
+     889.00 | 57 | SSD Adata Ultimate SU800, 256GB, SATA III, 2.5'', 7mm 
+     518.00 | 54 | SSD Kingston A400, 120GB, SATA III, 2.5'', 7mm 
+ Ventas Acumuladas del mes 302,616.00 
+
+ Mes : 8
+   2,559.00 | 48 | SSD Kingston A2000 NVMe, 1TB, PCI Express 3.0, M2 
+     518.00 | 54 | SSD Kingston A400, 120GB, SATA III, 2.5'', 7mm 
+ Ventas Acumuladas del mes  35,722.00 
+
+ Mes : 9
+   4,199.00 | 17 | Tarjeta de Video Gigabyte AMD Radeon R7 370 OC, 2GB 256-bit GDDR5, PCI Express 3.0 
+ Ventas Acumuladas del mes   4,199.00 
+
+
+ Mes   1 | 444,805.00 |  37,067.08 | 62.15% 
+ Mes   2 | 598,809.00 |  49,900.75 | 83.67% 
+ Mes   3 | 618,136.00 |  51,511.33 | 86.37% 
+ Mes   4 | 604,681.00 |  50,390.08 | 84.49% 
+ Mes   5 | 451,965.00 |  37,663.75 | 63.15% 
+ Mes   6 | 330,577.00 |  27,548.08 | 46.19% 
+ Mes   7 | 302,616.00 |  25,218.00 | 42.29% 
+ Mes   8 |  35,722.00 |   2,976.83 |  4.99% 
+ Mes   9 |   4,199.00 |     349.92 |  0.59% 
+ Mes  10 |       0.00 |       0.00 |  0.00% 
+ Mes  11 |       0.00 |       0.00 |  0.00% 
+ Mes  12 |       0.00 |       0.00 |  0.00% 
